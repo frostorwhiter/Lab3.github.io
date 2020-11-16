@@ -1,0 +1,14 @@
+.body {
+	background-color:silver;
+	position: relative;
+	left: 11%; 
+}
+.box {
+	font-style:italic;
+	background-color:slategrey;
+	position: relative;
+	width: 35%;
+ 	border: 14px solid dimgrey;
+  	padding: 5%;
+ 	margin: 15%;
+}
